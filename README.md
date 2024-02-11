@@ -139,4 +139,4 @@ Licensed under the MIT License, Copyright © 2022
 
 ---
 
-Refactoried with ♥ by [Madu](https://mariaeduardapedroso.github.io/front-paginaMadu/)
+Refactored with ♥ by [Madu](https://mariaeduardapedroso.github.io/front-paginaMadu/)
