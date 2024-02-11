@@ -1,4 +1,4 @@
-# Astro Boilerplate with TypeScript and Tailwind CSS [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+# Astro Boilerplate with TypeScript and Tailwind CSS
 
 🚀 Astro Boilerplate is starter code for your blog or portfolio based on Astro
 with Tailwind CSS 3.0. ⚡️ Made with Astro, TypeScript, ESLint, Prettier,
@@ -20,7 +20,7 @@ A complete Blog feature:
 - 📦 Image lazy loading
 - 💎 Responsive design
 
-Developer experience first:
+Developer experience:
 
 - 🔥 Astro
 - 🎨 Tailwind CSS with aspect ratio and typography plugin
@@ -65,8 +65,21 @@ writing, that's Node v16.15.1
 Run the following command on your local environment:
 
 ``` bash
-git clone --depth=1 https://github.com/ixartz/Astro-boilerplate
+git clone --depth=1 https://github.com/projetosTherion/Trainee2024Page.git
 cd my-project-name
+```
+
+
+Create your Branch (from main):
+
+
+``` bash
+git checkout -b ＜new-branch＞
+```
+
+Install project dependencies:
+
+``` bash
 npm install
 ```
 
@@ -126,5 +139,4 @@ Licensed under the MIT License, Copyright © 2022
 
 ---
 
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+Refactoried with ♥ by [Madu](https://mariaeduardapedroso.github.io/front-paginaMadu/)
