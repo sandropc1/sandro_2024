@@ -4,7 +4,8 @@
 with Tailwind CSS 3.0. ⚡️ Made with Astro, TypeScript, ESLint, Prettier,
 Tailwind CSS.
 
-Clone this project and use it to create your own Astro blog. You can check the
+Clone this project and use it to create your own page in Portuguese, don't forget 
+to create and commit changes to your branch and don't overwrite anything in main. You can check the
 [Astro templates demo](https://creativedesignsguru.com/demo/astro-boilerplate/).
 
 ## Features
