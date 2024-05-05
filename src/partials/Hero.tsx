@@ -10,20 +10,14 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Olá, eu sou o <GradientText>Sandro</GradientText> 👋
         </>
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
-          </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
-          </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          Sou estudante de Engenharia de Computação na UTFPR, campus Apucarana,
+          atualmente atuo como Trainee na EJ Therion.
+
         </>
       }
       avatar={
@@ -36,25 +30,25 @@ const Hero = () => (
       }
       socialButtons={
         <>
-          <a href="/">
+          <a href="https://twitter.com/home">
             <HeroSocial
               src="/assets/images/twitter-icon.png"
               alt="Twitter icon"
             />
           </a>
-          <a href="/">
+          <a href="https://www.facebook.com/sandro.pinheirochriste">
             <HeroSocial
               src="/assets/images/facebook-icon.png"
               alt="Facebook icon"
             />
           </a>
-          <a href="/">
+          <a href="https://www.linkedin.com/in/sandro-pinheiro-christe-71140726a/">
             <HeroSocial
               src="/assets/images/linkedin-icon.png"
               alt="Linkedin icon"
             />
           </a>
-          <a href="/">
+          <a href="https://www.youtube.com/@BaumgartnerRestoration">
             <HeroSocial
               src="/assets/images/youtube-icon.png"
               alt="Youtube icon"
